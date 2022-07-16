@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KabaLockIntegration", "KabaLockIntegration.csproj", "{B6978EE2-B142-4601-85DD-1F81E7EB69EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6978EE2-B142-4601-85DD-1F81E7EB69EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6978EE2-B142-4601-85DD-1F81E7EB69EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6978EE2-B142-4601-85DD-1F81E7EB69EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6978EE2-B142-4601-85DD-1F81E7EB69EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6611D835-B019-462C-95A9-A86670583C18}
+	EndGlobalSection
+EndGlobal
